@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /cms
+
+Host: https://min-svenska.com
+Sitemap: https://min-svenska.com/sitemap.xml
+Sitemap: https://min-svenska.com/sitemap-img.xml

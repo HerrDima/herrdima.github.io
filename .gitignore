@@ -1,0 +1,49 @@
+# IDE
+/.idea/
+/.vscode/
+
+# data base
+/db/back-up/
+/db/data-base.article.db-backup/
+/db/data-base.user.db-backup/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# npm
+/node_modules/
+
+# dists
+/dist/
+/dist-server/
+
+# report
+/coverage-ts/
+/tsc-check/
+/coverage/
+
+# backstopjs
+/test-backstop/report/
+/test-backstop/bitmap/test/
+
+# style's d.ts
+*.scss.d.ts
+
+# other
+.DS_Store
+
+.env
+
+# cache
+/article-cache/
+
+# static site
+/static-site/
+
+# storybook
+/storybook-static/
+
+# temp
+/static-file-temp/
